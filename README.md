@@ -2,7 +2,7 @@
 
 Nettsiden til Giati: filmer, bilder og bøker som vekker nysgjerrighet.
 
-- `index.html` er hele siden.
-- Legg mappene `bok/`, `film/` og `img/` ved siden av `index.html`. Siden henter bildene derfra.
+- Denne mappen er hele nettstedet, nøyaktig slik det ligger i GitHub-repoet. Alle rettelser gjøres her.
+- `index.html` er hele siden. Alle bilder ligger flatt ved siden av den (ingen undermapper).
 - Ingen sporing og ingen cookies.
-- Hostes på Netlify, koblet til dette repoet. Domene: giati.no (Domene.no).
+- Hostes på Netlify, koblet til GitHub-repoet. Domene: giati.no (Domene.no).
